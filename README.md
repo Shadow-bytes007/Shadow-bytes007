@@ -145,9 +145,7 @@ A passionate cybersecurity professional specializing in offensive security, web 
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0xSaikat/0xSaikat/output/snake.svg" alt="Snake animation" />
-  <br clear="both">
+
   <br>
   <br>
   <br>
