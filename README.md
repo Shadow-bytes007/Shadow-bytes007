@@ -1,5 +1,5 @@
 <!--- ![logo](https://github.com/0xSaikat/0xSaikat/blob/main/github_cover.png) --->
-
+<br>
 <p align="center">
   <a href="https://github.com/0xSaikat">
     <img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&size=23&duration=5001&pause=988&color=FF0000&center=true&width=435&lines=HI+%2C+I+AM+SUDHIR;ETHICAL+HACKER+;EXPLOIT+DEVELOPER;+WEB+DEVELOPER;REVERSE+ENGINEER;VULNARABILITY+ANALYST;+C++PHP++PYTHON" alt="Typing SVG" align="center"/>
@@ -24,7 +24,8 @@ A passionate cybersecurity professional specializing in offensive security, web 
 ###
 
 
-###
+<br>
+
 
 
 
@@ -116,7 +117,41 @@ A passionate cybersecurity professional specializing in offensive security, web 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="10" />
+  <br><br>
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" height="30" alt="apache logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MONGO logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  />
+
+
 </div>
+<br>
+<br>
+
+
+<!---GIT HUB STATS --->
+<div align="left">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-bytes007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-bytes007&locale=en&hide_title=false&layout=compact&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-bytes007&theme=merko&mode=weekly" height="150" alt="stats graph"  />
+   
+
+   <img src="https://github-contributor-stats.vercel.app/api?username=Shadow-bytes007&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributers"  />
+</div>
+
+
+
+<!---### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shadow-bytes007&limit=5&theme=dark&combine_all_yearly_contributions=true)  --->
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shadow-bytes007&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 ###
 
@@ -145,7 +180,6 @@ A passionate cybersecurity professional specializing in offensive security, web 
 
 <br clear="both">
 
-
   <br>
   <br>
   <br>
@@ -158,13 +192,6 @@ A passionate cybersecurity professional specializing in offensive security, web 
     🛡️ Security: Expensive until you need it desperately.
   </p>
 </div>
-
-<br>
-<br>
-
-  
-
-###
 
 
 ###
