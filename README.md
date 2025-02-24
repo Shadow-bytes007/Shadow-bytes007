@@ -1,7 +1,7 @@
 <!--- ![logo](https://github.com/0xSaikat/0xSaikat/blob/main/github_cover.png) --->
 <br>
 <p align="center">
-  <a href="https://github.com/0xSaikat">
+  <a href="https://github.com/Shadow_bytes007">
     <img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&size=23&duration=5001&pause=988&color=FF0000&center=true&width=435&lines=HI+%2C+I+AM+SUDHIR;ETHICAL+HACKER+;EXPLOIT+DEVELOPER;+WEB+DEVELOPER;REVERSE+ENGINEER;VULNARABILITY+ANALYST;+C++PHP++PYTHON" alt="Typing SVG" align="center"/>
   </a>
 </p>
@@ -132,7 +132,7 @@ A passionate cybersecurity professional specializing in offensive security, web 
 
 
 <!---GIT HUB STATS --->
-<div align="left">
+<div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Shadow-bytes007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-bytes007&locale=en&hide_title=false&layout=compact&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
