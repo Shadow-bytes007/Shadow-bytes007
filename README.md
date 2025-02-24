@@ -138,22 +138,20 @@ A passionate cybersecurity professional specializing in offensive security, web 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-bytes007&locale=en&hide_title=false&layout=compact&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-bytes007&theme=merko&mode=weekly" height="150" alt="stats graph"  />
    
-
+<!---### 🔝 Top Contributed Repo --->
    <img src="https://github-contributor-stats.vercel.app/api?username=Shadow-bytes007&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributers"  />
 </div>
 
+<!---  total profile visitors  --->
+<div align="center">
+  <h4 align="center" style="font-family: serif;">Total Profile Visitors</h4>
+  <img src="https://profile-counter.glitch.me/Shadow-bytes007/count.svg"  />
+</div>
+
+<br>
 
 
-<!---### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shadow-bytes007&limit=5&theme=dark&combine_all_yearly_contributions=true)  --->
-
----
-[![](https://visitcount.itsvg.in/api?id=Shadow-bytes007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-###
+<!--- linkedin , tryhack me, youtube --->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sudhir-s-b64a02268/" target="_blank">
@@ -185,9 +183,7 @@ A passionate cybersecurity professional specializing in offensive security, web 
   <br>
   
 <div align="right">
-  <a href="https://www.linkedin.com/in/sudhir-s-b64a02268/">
-<!--     <img src="https://avatars.githubusercontent.com/u/72136146?s=400&u=3eaa132c43ebe24c797e74687c7a54793bd25a81&v=4" align="right" width="50" height="50" alt="image" style="margin-bottom: 20px; margin-top: 20px; border-radius: 50%;"/> -->
-  </a>
+  
   <p id="random-quote" style="font-size: 18px; font-weight: bold; color: #00FF00; font-family: 'Courier New', monospace; margin-bottom: 20px;">
     🛡️ Security: Expensive until you need it desperately.
   </p>
