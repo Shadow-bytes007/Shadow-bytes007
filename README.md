@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/Shadow_bytes007">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&size=23&duration=5001&pause=988&color=FF0000&center=true&width=435&lines=HI+%2C+I+AM+SUDHIR;ETHICAL+HACKER+;EXPLOIT+DEVELOPER;+WEB+DEVELOPER;REVERSE+ENGINEER;VULNARABILITY+ANALYST;+C++PHP++PYTHON" alt="Typing SVG" align="center"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&size=23&duration=5001&pause=988&color=FF0000&center=true&width=435&lines=HI+%2C+I+AM+SUDHIR;ETHICAL+HACKER+;+WEB+DEVELOPER;REVERSE+ENGINEER;VULNARABILITY+ANALYST;+C++PHP++PYTHON" alt="Typing SVG" align="center"/>
   </a>
 </p>
 
