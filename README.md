@@ -17,7 +17,7 @@
 </br>
 
 <p style="font-family: 'monospace';">
-A passionate cybersecurity professional specializing in offensive security, web penetration testing, and Assembly code. With my experience, Sudhir has made significant knowlege in linux , C , GDB's , Assembly codes.
+A passionate cybersecurity professional specializing in defensive security, MA&RE and Assembly code. With my experience, Sudhir has made significant knowlege in linux , C , Windbg X64 , Assembly codes.
 </p>
 
 
